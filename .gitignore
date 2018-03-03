@@ -5,4 +5,5 @@ djangogirls
 db.sqlite3
 /static
 /Lib
+/Scripts
 .DS_Store
